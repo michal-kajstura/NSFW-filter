@@ -1,6 +1,6 @@
 Pillow==7.0.0
 facenet_pytorch==2.2.9
-numpy==1.18.1
+numpy==1.22.0
 opencv-python==4.2.0.32
 tensorflow
 nudenet
